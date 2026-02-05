@@ -85,7 +85,7 @@ import "dotenv/config";
 import userModel from "./models/userModel.js";
 import cartRouter from "./routes/cartRoute.js";
 import orderRouter from "./routes/orderRoute.js";
-import paymentRouter from "./routes/payment.js";
+// import paymentRouter from "./routes/payment.js";
 import geminiRouter from "./routes/geminiRoute.js";
 
 const app = express();
